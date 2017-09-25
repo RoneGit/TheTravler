@@ -13,5 +13,3 @@ Enjoy.
 # In Game
 
 ![alt text](https://github.com/dailies/TheTravler/blob/master/Menu.JPG)
-
-![alt text](https://github.com/dailies/TheTravler/blob/master/TheTravler.JPG)
